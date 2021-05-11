@@ -5,3 +5,5 @@ Was showing my friend how to make a shopify monitor quickly, took around 20 mins
 Usage:
 
 add proxies (ip:port:user:pass), then go into the code and change the webhook url you wish to send the new product to, and then run app.py. Hope this helps someone :-)
+
+btw, feel free to chage all names / images on this and use in your own server 😄
